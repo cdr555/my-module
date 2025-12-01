@@ -1,0 +1,3 @@
+[submodule "modules/cylindrical-correction"]
+	path = modules/cylindrical-correction
+	url = git@git.makeblock.com:makeblock-algorithm/cylindrical-correction.git
